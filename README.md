@@ -33,6 +33,22 @@ Olá, sou **Natanael Paiva Costa**(podem me chamar de Natan),um desenvolvedor Je
 
 ## ⚡️ Que a Força esteja com você!
 
+**Abaixo está algumas de minhas certificações**
+
+<img width="473" alt="image" src="https://github.com/user-attachments/assets/5378a17a-3635-4f82-877d-f5608fc5ab8c">
+obs: ocultei o R.G.
+
+
+<img width="473" alt="image" src="https://github.com/user-attachments/assets/f432255a-616d-4969-b8b0-352bad772273"><br>
+
+
+
+
+
+<img width="473" alt="image" src="https://github.com/user-attachments/assets/38db385f-a951-4ff3-b4e9-2be83b814115">
+
+
+
 
 
 
