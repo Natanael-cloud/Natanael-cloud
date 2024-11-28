@@ -29,7 +29,7 @@ Olá, sou **Natanael Paiva Costa**(podem me chamar de Natan),um desenvolvedor Je
 ## 🛸 Entre em Contato
 
 - 📧 **Email**: natanpaivacosta@gmail.com
-- 🌍 **LinkedIn**: [Seu LinkedIn](https://www.linkedin.com/in/seuperfil)
+- 🌍 **LinkedIn**: https://www.linkedin.com/in/natanael-paiva-costa-b9a0881b7/
 
 ## ⚡️ Que a Força esteja com você!
 
