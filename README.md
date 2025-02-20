@@ -9,6 +9,7 @@ Olá, sou **Natanael Paiva Costa**(podem me chamar de Natan),um desenvolvedor Je
 - **HTML/CSS** - <img width="30" alt="image" src="https://github.com/user-attachments/assets/45c16619-c87c-4e05-acb1-b107c226c445">Criando interfaces que brilham como uma estrela.
 - **Git** - <img width="25" alt="image" src="https://github.com/user-attachments/assets/aad1d4e5-7742-4e14-b29c-b48712b73f38">
  Mantendo o repositório mais organizado que a Frota Rebelde.
+- **SQL/SQL SERVER** - <img width="55" alt="image" src="https://github.com/user-attachments/assets/8c026c49-13e9-4348-8200-416a1706aa82">  Controlando dados com mais precisão que um Jedi pilotando uma X-Wing.
 
 
 ## 🚀 Projetos Destacados
@@ -45,7 +46,13 @@ obs: ocultei o R.G.
 
 
 
-<img width="473" alt="image" src="https://github.com/user-attachments/assets/38db385f-a951-4ff3-b4e9-2be83b814115">
+<img width="473" alt="image" src="https://github.com/user-attachments/assets/38db385f-a951-4ff3-b4e9-2be83b814115"><br>
+
+
+
+
+
+<img width="473" alt="image" src="https://github.com/user-attachments/assets/465c7c29-81bd-4b32-94ea-de2654515b7d" />
 
 
 
