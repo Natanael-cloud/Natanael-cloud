@@ -7,8 +7,10 @@ Olá, sou **Natanael Paiva Costa**(podem me chamar de Natan),um desenvolvedor Je
 ## 🌌 Tecnologias e Habilidades
 - **JavaScript** - <img width="20" alt="image" src="https://github.com/user-attachments/assets/699dfd6e-6231-4747-af05-6c5f02edbe20">Manipulando a Força no frontend.<br>
 - **HTML/CSS** - <img width="30" alt="image" src="https://github.com/user-attachments/assets/45c16619-c87c-4e05-acb1-b107c226c445">Criando interfaces que brilham como uma estrela.
-- **Git** - <img width="25" alt="image" src="https://github.com/user-attachments/assets/aad1d4e5-7742-4e14-b29c-b48712b73f38">
+- **Git-Hub** - <img width="25" alt="image" src="https://github.com/user-attachments/assets/aad1d4e5-7742-4e14-b29c-b48712b73f38">
  Mantendo o repositório mais organizado que a Frota Rebelde.
+- **Git** - <img width="25" alt="image" src="https://github.com/user-attachments/assets/4a9f2190-e928-485a-bf21-e9b6fb184949" />
+ Controlando versões e linhas de código com maestria, como um Jedi coordenando estratégias em plena batalha.
 - **SQL/SQL SERVER** - <img width="55" alt="image" src="https://github.com/user-attachments/assets/8c026c49-13e9-4348-8200-416a1706aa82">  Controlando dados com mais precisão que um Jedi pilotando uma X-Wing.
 
 
