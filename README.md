@@ -42,6 +42,12 @@ Olá, sou **Natanael Paiva Costa**(podem me chamar de Natan),um desenvolvedor Je
 obs: ocultei o R.G.
 
 
+
+<img width="473" alt="image" src="https://github.com/user-attachments/assets/423c0ac4-d678-4278-98dd-e487851e5ea3" />
+
+
+
+
 <img width="473" alt="image" src="https://github.com/user-attachments/assets/f432255a-616d-4969-b8b0-352bad772273"><br>
 
 
