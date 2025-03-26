@@ -43,6 +43,14 @@ obs: ocultei o R.G.
 
 
 
+
+<img width="473" alt="image" src="https://github.com/user-attachments/assets/6399c8a2-bcb3-4a38-9509-6048c729b7df" /><br>
+
+
+
+
+
+
 <img width="473" alt="image" src="https://github.com/user-attachments/assets/423c0ac4-d678-4278-98dd-e487851e5ea3" />
 
 
