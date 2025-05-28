@@ -5,6 +5,9 @@
 Olá, sou **Natanael Paiva Costa**(podem me chamar de Natan),um desenvolvedor Jedi em constante aprendizado e evolução no universo do código. Em minha jornada, estou sempre em busca de novos conhecimentos e desafios, assim como os heróis da Galáxia. Formado em Análise e Desenvolvimento de Sistemas, um eterno curioso e desbravador do Universo.
 
 ## 🌌 Tecnologias e Habilidades
+
+- **Wordpress** - <img width="20" alt="image" src="https://github.com/user-attachments/assets/d236cad8-2e89-44e8-af9c-44a29c87ac51" />
+Construindo e gerenciando impérios digitais com a mesma facilidade que o Mestre Yoda domina a Força.<br>
 - **JavaScript** - <img width="20" alt="image" src="https://github.com/user-attachments/assets/699dfd6e-6231-4747-af05-6c5f02edbe20">Manipulando a Força no frontend.<br>
 - **HTML/CSS** - <img width="30" alt="image" src="https://github.com/user-attachments/assets/45c16619-c87c-4e05-acb1-b107c226c445">Criando interfaces que brilham como uma estrela.
 - **Git-Hub** - <img width="25" alt="image" src="https://github.com/user-attachments/assets/aad1d4e5-7742-4e14-b29c-b48712b73f38">
@@ -13,8 +16,14 @@ Olá, sou **Natanael Paiva Costa**(podem me chamar de Natan),um desenvolvedor Je
  Controlando versões e linhas de código com maestria, como um Jedi coordenando estratégias em plena batalha.
 - **SQL/SQL SERVER** - <img width="55" alt="image" src="https://github.com/user-attachments/assets/8c026c49-13e9-4348-8200-416a1706aa82">  Controlando dados com mais precisão que um Jedi pilotando uma X-Wing.
 
+## 🚀 Projetos Wordpress
+**Site insituticional**: Utilizando o tema NEVE. A empresa, as imagens e os personagens são fictícios, apenas para ilustrar o conteúdo. Em um projeto com fins remuneratórios pode-se adicionar informações reais.<br>
+**clique no link para visualizar:**https://www.youtube.com/watch?v=emepDcgbulI
+
 
 ## 🚀 Projetos Destacados
+
+
 
   **Site Astrologia**: https://natanael-cloud.github.io/siteAstrologia/mapaastral.html
  <br> O site **Astrologia Mística** oferece informações sobre os signos do zodíaco, suas influências astrológicas e previsões, com uma galeria de imagens dos signos e um menu para acessar detalhes sobre cada um deles. Tecnologias: html, css e javascript.
