@@ -33,11 +33,17 @@ Construindo e gerenciando impérios digitais com a mesma facilidade que o Mestre
 <br>O **Gerenciador de Tarefas** permite adicionar, buscar e organizar tarefas em três categorias: "Para Fazer", "Em Andamento" e "Feitas", com funcionalidades de busca e notificação sonora. Tecnologias: html, css e javascript.
 
 **pontoCompras**: https://natanael-cloud.github.io/pontoCompras/
-<br>O **Comparador de Compras** permite adicionar itens, comparar preços, visualizar gráficos de gastos por categoria e gerar relatórios em PDF. Tecnologias: html, css e javascript.
+<br>O **Comparador de Compras** permite adicionar itens, comparar preços, visualizar gráficos de gastos por categoria e gerar relatórios em PDF. Tecnologias: html, css e javascript.<br>
+
+
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Natanael-cloud&show_icons=true&theme=dark)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Natanael-cloud&layout=compact&theme=dark)
 
 
 
 
+<br>
 ## 🛸 Entre em Contato
 
 - 📧 **Email**: natanpaivacosta@gmail.com
