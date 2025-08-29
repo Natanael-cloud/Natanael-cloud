@@ -58,9 +58,10 @@ Olá! Sou **Natanael Paiva Costa** (pode me chamar de **Natan**), um desenvolved
 
 ## 🏆 Certificações e Conquistas
 
-> Algumas das minhas certificações adquiridas ao longo da jornada Jedi:
+> Algumas das minhas certificações adquiridas ao longo da jornada:
 
-<img width="473" alt="cert1" src="https://github.com/user-attachments/assets/5378a17a-3635-4f82-877d-f5608fc5ab8c">
+<img width="473" alt="cert1" src="https://github.com/user-attachments/assets/5378a17a-3635-4f82-877d-f5608fc5ab8c"><br><br>
+<img width="473" height="397" alt="image" src="https://github.com/user-attachments/assets/cf6ee06e-7030-4fda-bc95-153dbaa80d1f" /><br><br>
 <img width="473" alt="cert2" src="https://github.com/user-attachments/assets/6399c8a2-bcb3-4a38-9509-6048c729b7df">
 
 ---
