@@ -24,6 +24,9 @@ Olá! Sou **Natanael Paiva Costa** (pode me chamar de **Natan**), um desenvolved
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/sql%20server-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-%232E7C32.svg?style=for-the-badge&logo=json&logoColor=white)
+![API](https://img.shields.io/badge/API-%230A2B37.svg?style=for-the-badge&logo=api&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-%23292929.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
