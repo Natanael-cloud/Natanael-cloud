@@ -29,6 +29,9 @@ Olá! Sou **Natanael Paiva Costa** (pode me chamar de **Natan**), um desenvolved
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-%23292929.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Natanael-cloud&layout=compact&theme=tokyonight&langs_count=8)
+
+---
 
 ## 🚀 Projetos em Destaque
 
@@ -50,11 +53,7 @@ Olá! Sou **Natanael Paiva Costa** (pode me chamar de **Natan**), um desenvolved
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Natanael-cloud&show_icons=true&theme=tokyonight&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Natanael-cloud&layout=compact&theme=tokyonight)
 
----
 
 ## 🏆 Certificações e Conquistas
 
